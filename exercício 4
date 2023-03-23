@@ -1,0 +1,10 @@
+<?php
+$valor = 100
+$resultado 0.05 * $valor; 
+$resultado 0.50 * $valor; 
+
+echo "5% é: {resultado} e 50% é: {$resultado2}";
+
+?>
+
+

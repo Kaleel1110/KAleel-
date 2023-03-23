@@ -1,0 +1,14 @@
+<?php
+$val1 = 5
+$val2 = 8
+$val3 = 9
+
+
+$resultado = ($val1 + $val2 + $val3) / 3;
+
+echo "O resultado da média é: {$resultado}"
+
+
+
+
+?> 
